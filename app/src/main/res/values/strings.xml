@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">SampleAnko</string>
+
+    <string name="alert_activity_name">AlertActivity</string>
+    <string name="toast_activity_name">ToastActivity</string>
+    <string name="custom_activity_name">CustomAlertActivity</string>
+    <string name="selector_activity_name">SelectorActivity</string>
+    <string name="progress_activity_name">ProgressActivity</string>
 </resources>
