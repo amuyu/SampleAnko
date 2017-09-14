@@ -30,7 +30,9 @@ dependencies {
     implementation "org.jetbrains.anko:anko:$rootProject.ankoVersion"
     implementation "org.jetbrains.anko:anko-appcompat-v7-commons:$ankoVersion"
     implementation "org.jetbrains.anko:anko-commons:$rootProject.ankoVersion"
-    compile "org.jetbrains.anko:anko-appcompat-v7:$rootProject.ankoVersion"
+    implementation "org.jetbrains.anko:anko-appcompat-v7:$rootProject.ankoVersion"
+
+    implementation "com.amuyu:logger:$rootProject.loggerVersion"
 
 
     testImplementation 'junit:junit:4.12'
